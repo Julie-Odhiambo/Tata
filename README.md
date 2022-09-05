@@ -17,3 +17,6 @@ business performance and suggest metrics that would enable them to make the deci
 
 1. Draft questions that you think will be important and relevant to the CEO and CMO. Create a set of four questions that you anticipate each business leader will ask
     and want to know the answers to.
+2.
+
+Click [here](https://www.novypro.com/project/foragetata-task-3) to interact with the Power BI report.
